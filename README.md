@@ -39,3 +39,8 @@
   <br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bmZ6bnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZmZ5CZ/LpDmM2PbeY80/giphy.gif" width="50" />
 </div>
+[🌐 My Blog](korozet1.top)
+
+<a href="korozet1.top" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-个人博客-blue?style=flat-square&logo=read-the-docs&logoColor=white" />
+</a>
