@@ -13,8 +13,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korozet1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korozet1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=korozet1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=0" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korozet1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=0" height="150" alt="languages graph" />
 </div>
 
 <br/>
