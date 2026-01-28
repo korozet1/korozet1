@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/7N022k_LpQAAAAAC/firefly-honkai-star-rail.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="preview.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/korozet1">korozet1</a> 👋</h1>
