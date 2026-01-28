@@ -34,7 +34,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://korozet1.top" target="_blank">
+  <a href="http://korozet1.top" target="_blank">
     <img src="https://img.shields.io/badge/Blog-个人博客-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 </p>
