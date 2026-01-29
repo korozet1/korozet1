@@ -13,8 +13,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korozet1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=0" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korozet1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=0" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=korozet1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korozet1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -33,13 +33,14 @@
 </div>
 
 <br/>
+
 <div align="center">
-  <a href="http://korozet1.top" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-个人博客-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  <a href="https://korozet1.top" target="_blank">
+    <img src="http://img.shields.io/badge/Blog-个人博客-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
-</p>
+  <br/>
+  <br/>
   <i>"I will set the seas ablaze... with my code!"</i> 🔥
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bmZ6bnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZmZ5CZ/LpDmM2PbeY80/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bmZ6bnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZnJ5Y2V6ZmZ5CZ/LpDmM2PbeY80/giphy.gif" width="50" />
 </div>
-
