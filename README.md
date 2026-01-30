@@ -14,7 +14,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=korozet1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korozet1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  &nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korozet1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
@@ -36,7 +37,7 @@
 
 <div align="center">
   <a href="https://korozet1.top" target="_blank">
-    <img src="http://img.shields.io/badge/Blog-个人博客-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-个人博客-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
   <br/>
   <br/>
