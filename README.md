@@ -2,8 +2,8 @@
   <img src="heart-hsr.gif" width="200" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/korozet1">korozet1</a> 👋</h1>
-
+<!-- <h1 align="center">Hi there, I'm <a href="https://github.com/korozet1">korozet1</a> 👋</h1> -->
+<h1 align="center">Hi there👋</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F778BA&center=true&vCenter=true&width=435&lines=CV+Researcher+%F0%9F%94%AC;Java+%26+Python+Dual+Wielder+%E2%9A%94%EF%B8%8F;Powered+by+Firefly+%E2%9C%A8;Double-Non+but+Full-Stack+%F0%9F%92%AA" alt="Typing SVG" />
