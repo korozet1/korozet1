@@ -24,15 +24,31 @@
 
 <div align="center">
   <h3 align="center">🛠️ Tech Stack</h3>
+  ### 🛠 Tech Stack
+
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CV-Computer_Vision-FF4500?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-Image_Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformer-Attention_Mechanism-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERT-Pretraining-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 </div>
 
 <br/>
